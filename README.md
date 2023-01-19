@@ -1,1 +1,1 @@
-# COMP-1002-Programming
+# COMP-1002-Programming Assignment
